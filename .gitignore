@@ -1,0 +1,14 @@
+# ignora los archivos terminados en .jpg
+*.jpg
+*login.txt
+*.txt
+*.xz
+*.json.xz
+*.mp4
+*.json
+*.xz
+*.gif
+*.rar
+*/
+*.wmv
+*.ini
